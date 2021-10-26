@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "7450c47c82b81579",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ede687187e0d943",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "obsidian-demo/obsidian-demo-index.md",
+            "mode": "source"
+          }
+        },
+        "group": "46a7fee50b7df55f"
+      },
+      {
+        "id": "7cb94a5164ece97f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "obsidian-demo/obsidian-demo-index.md",
+            "mode": "preview"
+          }
+        },
+        "group": "46a7fee50b7df55f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a62d40db86dbad4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e688c1ed850adf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b720803d304e5b0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ffaaa3524da0191",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#obsidian_demo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bf34ae4b068c3ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "c33269e87d216c61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4827ffbb54b1237f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian-demo/obsidian-demo-index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b21b0b344059e6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b7d1059baba25cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian-demo/obsidian-demo-index.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0ede687187e0d943",
+  "lastOpenFiles": [
+    "obsidian-demo/obsidian-demo-index.md",
+    "obsidian-demo/new topic in class.md",
+    "obsidian-demo/ideas/markdown-basics.md",
+    "obsidian-demo/ideas/latex.md",
+    "obsidian-demo/ideas/tags.md",
+    "obsidian-demo/ideas/plugins.md",
+    "obsidian-demo/ideas/metadata.md",
+    "obsidian-demo/ideas/embedding-notes-and-files.md",
+    "obsidian-demo/ideas/an-example.md",
+    "obsidian-demo/ideas/links.md"
+  ]
+}
