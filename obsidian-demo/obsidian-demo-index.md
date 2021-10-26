@@ -10,8 +10,6 @@ Presented by *Mark Snyder*
 
 ## Intro
 
-> Fellas, gals, and non-binary pals! Have you ever spent too much time searching the perfect note taking application? If so, look no further, because Obsidian has you covered! It's not perfect, but it's the closest I've ever gotten to be happy with a note taking application.
-
 - What is Obsidian?
 - [Get Obsidian](https://obsidian.md/)
 - Opening up Obsidian
